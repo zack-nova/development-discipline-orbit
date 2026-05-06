@@ -1,0 +1,9 @@
+schema_version: 1
+kind: orbit_template
+template:
+    orbit_id: development-discipline-orbit
+    default_template: false
+    created_from_branch: main
+    created_from_commit: 94b7cc0bd3e9105c8e561ba9eeecae78873e2d6d
+    created_at: 2026-05-06T09:13:32Z
+variables: {}
